@@ -1,4 +1,3 @@
-
 Breaking into Virtual Reality: A Beginner’s Guide to VR Development with Unity
 By Dhulkiflu Garba, on a mission to demystify VR development and inspire the next generation of immersive creators
 
@@ -39,7 +38,7 @@ Step 2: Create a New 3D Project
 Step 3: Set Up XR Plugin Management
 
 1. Go to `Edit > Project Settings > XR Plugin Management`
-2. Click Install XR Plugin Management if not already installed.
+2. Click Install XR Plugin Management if it is not already installed.
 3. Enable the plugin for your target platform (e.g., OpenXR for cross-device compatibility, or Oculus for Meta Quest).
 
 Step 4: Install Essential Packages
