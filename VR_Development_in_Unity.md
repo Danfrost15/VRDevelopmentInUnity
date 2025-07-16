@@ -3,11 +3,7 @@ By Dhulkiflu Garba, on a mission to demystify VR development and inspire the nex
 
 1. Introduction to VR Development in Unity
 
-Virtual Reality (VR) isn’t just the future of gaming — it’s the present of immersive experiences across industries. From virtual classrooms and architectural walkthroughs to fully interactive simulations and cutting-edge games, VR is revolutionizing how we perceive and interact with digital content.
-
-At its core, VR is a simulated experience that places users inside a 3D environment, often through headsets that respond to head movement and motion controllers that track hand gestures. This illusion of “being there” transforms passive users into active participants.
-
-When it comes to creating these experiences, Unity has emerged as the go-to platform for VR development. Why? Unity’s strengths lie in its:
+Virtual Reality (VR) isn’t just the future of gaming — it’s the present of immersive experiences across industries. From virtual classrooms and architectural walkthroughs to fully interactive simulations and cutting-edge games, VR is revolutionizing how we perceive and interact with digital content. At its core, VR is a simulated experience that places users inside a 3D environment, often through headsets that respond to head movement and motion controllers that track hand gestures. This illusion of “being there” transforms passive users into active participants.When it comes to creating these experiences, Unity has emerged as the go-to platform for VR development. Why? Unity’s strengths lie in its:
 
 * Cross-platform capabilities
 * Massive asset store
@@ -22,7 +18,6 @@ Some of the most popular VR devices supported by Unity include:
 * PlayStation VR – console-based VR for a wider audience
 
 2. Setting Up a VR Project in Unity
-
 Getting started is easier than you think. Here’s a step-by-step guide to setting up your first VR project:
 
 Step 1: Install Unity
